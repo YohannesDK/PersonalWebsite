@@ -1,0 +1,6 @@
+[submodule "WS_FrontEnd"]
+	path = WS_FrontEnd
+	url = https://github.com/YohannesDK/WS_FrontEnd.git
+[submodule "WS_BackEnd"]
+	path = WS_BackEnd
+	url = https://github.com/YohannesDK/WS_BackEnd.git
